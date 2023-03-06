@@ -1,0 +1,6 @@
+Step 1: Create Slices for Redux (With Name, Intial State, Reducer)
+Step 2: Create Store (Pass reducer in configure store)
+Step 3: Export Actions of Slice
+Step 4: Provide store to index.js
+Step 5: use useSelector to access state
+Step 6: use useDispatch/dispatch to call reducer function
